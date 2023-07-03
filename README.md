@@ -21,6 +21,9 @@ _Steps:_
 **Result :** ACCURACY COMPARISON
 
 **XGBoost** -Accuracy: 0.9827979638406179
+
 **SVM**-Accuracy: 0.8148148148148148
+
 **Decision Tree**-Accuracy : 0.7254562548952556
+
 **RF**-Accuracy : 0.7545566588998895
